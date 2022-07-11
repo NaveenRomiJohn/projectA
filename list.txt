@@ -1,0 +1,17 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 6646-741E
+
+ Directory of D:\eclipse-june-workspace\projectA
+
+08-06-2022  16:37    <DIR>          .
+08-06-2022  16:37    <DIR>          ..
+08-06-2022  16:33               967 .classpath
+07-06-2022  12:21             1,311 .gitignore
+07-06-2022  12:20               382 .project
+07-06-2022  12:23    <DIR>          .settings
+08-06-2022  16:33    <DIR>          bin
+08-06-2022  16:37                 0 list.txt
+07-06-2022  12:19                34 README.md
+07-06-2022  12:24    <DIR>          src
+               5 File(s)          2,694 bytes
+               5 Dir(s)  336,359,706,624 bytes free
